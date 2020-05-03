@@ -1,4 +1,4 @@
-欢迎来到Lean的Openwrt源码仓库！
+欢迎来到Lean的Openwrt（R9）源码仓库备份！
 =
 Welcome to Lean's  git source of OpenWrt and packages
 =
@@ -9,6 +9,8 @@ Welcome to Lean's  git source of OpenWrt and packages
 1. **不**要用 **root** 用户 git 和编译！！！
 2. 国内用户编译前最好准备好梯子
 3. 默认登陆IP 192.168.1.1, 密码 password
+4. **本源码针对WNDR4300配置，如需其他机型请 rm -rf .config 重新编译
+5. 修改内容：开启128M，去除SSR彩蛋，添加adbyby youtube规则，选择的插件满足本人自用要求。
 
 编译命令如下:
 -
