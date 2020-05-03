@@ -75,7 +75,7 @@ make -j$(($(nproc) + 1)) V=s
 
 ### Wechat 微信
 
-![wechat](doc/wechat_donate.jpg)
+![wechat](https://github.com/coolsnowwolf/lede/blob/master/doc/wechat_donate.jpg)
 
 ------
 
